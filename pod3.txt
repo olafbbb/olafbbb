@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kolonia na Cyprze - wakacje_ob!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            margin: 0;
+        }
+        
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        
+        p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kolonia na Cyprze - wakacje_ob!</h1>
+    </header>
+    <main>
+        <h2>Witaj w naszej kolonii na Cyprze!</h2>
+        <img src="grecos-cypr-001.jpg" alt="Plaża na Cyprze">
+        <p>
+            Zapraszamy Cię na niezapomnianą przygodę na pięknym Cyprze! Nasza kolonia oferuje wiele atrakcji i fascynujących miejsc do odkrywania. Oto kilka powodów, dla których warto do nas dołączyć:
+        </p>
+        <ul>
+            <li>Słoneczne plaże z błękitnymi wodami Morza Śródziemnego.</li>
+            <li>Bogata historia i dziedzictwo kulturowe - zwiedzanie starożytnych ruin i zabytków.</li>
+            <li>Tradycyjna kuchnia cypryjska - degustacja lokalnych specjałów i dań.</li>
+            <li>Różnorodne atrakcje wodne - nurkowanie, żeglarstwo, windsurfing.</li>
+            <li>Wspaniałe krajobrazy górskie - możliwość wędrówek i podziwiania pięknych widoków.</li>
+        </ul>
+        <p>
+            Nie zwlekaj! Dołącz do naszej kolonii i odkryj uroki Cypru razem z nami. Skontaktuj się z nami już dzisiaj, aby dowiedzieć się więcej i zarezerwować miejsce!
+        </p>
+        <p>
+            Telefon: 123-456-789<br>
+            E-mail: oboryszewski@gmail.com
+
+        </p>
+    </main>
+</body>
+</html>
