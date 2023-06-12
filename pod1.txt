@@ -59,6 +59,7 @@
     <img src="grecjija2.jpg" alt="grecjija2">
     <img src="frecjija3.jpg" alt="frecjija3">
     <img src="grecija 4.jpg" alt="grecija 4">
+    <img src="grecjija 5.jpg" alt="grecjija 5">
         </ul>
         <p>
             Nie zwlekaj! Dołącz do naszej kolonii i odkryj uroki Grecji razem z nami. Skontaktuj się z nami już dzisiaj, aby dowiedzieć się więcej i zarezerwować miejsce!
